@@ -1,6 +1,6 @@
 # Kebab Kata
 
-Kata créer par Romeu Moura (@malk_zameth).
+Kata créé par [Romeu Moura](https://github.com/malk) [@malk_zameth](https://twitter.com/malk_zameth).
 
 Transcription faite lors de SoCraTes FR 2015.
 
@@ -23,6 +23,7 @@ Faire des kebabs, chaque kebab doit pouvoir dire s'il est végétarien.
 Un kebab doit pouvoir dire s'il est pescétarien.
 
 > Le pescétarisme, ou pesco-végétarisme, est un néologisme désignant le régime alimentaire d'une personne omnivore qui s'abstient de consommer de la chair animale à l'exception de celle issue des poissons, des crustacés et mollusques aquatiques.
+
 __Définition [Wikipedia](https://fr.wikipedia.org/wiki/Pesc%C3%A9tarisme)__
 
 
@@ -40,8 +41,8 @@ Pour le double cheese :
 
 ex :
 ```
-S/T/C -> S/T/C/C
-C/S/C/T -> C/C/S/C/C/T
+S|T|C -> S|T|C|C
+C|S|C|T -> C|C|S|C|C|T
 ```
 
 - C : Cheese
