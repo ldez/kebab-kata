@@ -1,3 +1,5 @@
+iteration 2 is 7 minutes, iteration 3 is 15, iteration 4 is 20
+
 # Kebab Kata
 
 Kata créé par [Romeu Moura](https://github.com/malk) [@malk_zameth](https://twitter.com/malk_zameth).
@@ -18,7 +20,7 @@ Les ingrédients sont variés : Laitue, roquette, tomate, oignons, agneau, bœuf
 Faire des kebabs, chaque kebab doit pouvoir dire s'il est végétarien.
 
 
-## Itération 2 (10 min)
+## Itération 2 (7 min)
 
 Un kebab doit pouvoir dire s'il est pescétarien.
 
@@ -27,7 +29,7 @@ Un kebab doit pouvoir dire s'il est pescétarien.
 __Définition [Wikipedia](https://fr.wikipedia.org/wiki/Pesc%C3%A9tarisme)__
 
 
-## Itération 3 (15-20 min)
+## Itération 3 (15 min)
 
 Ajouter les possibilités suivantes :
 - système de doublage du fromage (double cheese)
@@ -40,6 +42,7 @@ Pour le double cheese :
 - s'il y a du fromage alors le doubler au même endroit de le fromage existant.
 
 ex :
+
 ```
 S|T|C -> S|T|C|C
 C|S|C|T -> C|C|S|C|C|T
@@ -50,12 +53,12 @@ C|S|C|T -> C|C|S|C|C|T
 - T : Tomate
 
 
-## Itération 4 (+ de 15 min)
+## Itération 4 (20 min)
 
 Refactorer avec des composites.
 
 
-## Itération 5 (+ de 15 min)
+## Itération 5 (20 min)
 
 Refactorer avec des visiteurs
 
