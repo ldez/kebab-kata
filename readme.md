@@ -1,5 +1,3 @@
-iteration 2 is 7 minutes, iteration 3 is 15, iteration 4 is 20
-
 # Kebab Kata
 
 Kata créé par [Romeu Moura](https://github.com/malk) [@malk_zameth](https://twitter.com/malk_zameth).
