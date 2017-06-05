@@ -1,6 +1,7 @@
 # Kebab Kata
 
 Kata créé par [Romeu Moura](https://github.com/malk) [@malk_zameth](https://twitter.com/malk_zameth).
+Il y a maintenant un [Guide rempli de spoilers pour les facilitateurs](https://github.com/malk/the-kebab-kata) (mais ça vous pourri le jeu si vous n'êtes que joueur, ne le faites lire que par le facilitateur)
 
 Transcription faite lors de SoCraTes FR 2015.
 
